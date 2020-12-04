@@ -25,8 +25,11 @@ body {
 }
 
 .link {
+    box-sizing:border-box;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .link-primary {
@@ -44,6 +47,12 @@ body {
 
 hr {
     margin: 2rem 0rem;
+}
+/** spacing**/
+.margin-md
+{
+ padding: 2rem;
+
 }
 
 /**list**/
@@ -88,6 +97,7 @@ hr {
 /* header */
 .hero {
     padding: 2rem;
+    padding-top: 5rem;
 
 }
 
@@ -145,4 +155,8 @@ hr {
 {
 padding-inline-start: 0px;
 
+}
+.footer .footer-header{
+    font-size: large;
+    font-weight: bold;
 }
