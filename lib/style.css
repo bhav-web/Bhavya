@@ -50,6 +50,7 @@
     border: 1px solid var(--primary-color);
 }
 
+/*horizontal line*/
 hr 
 {
     margin: 2rem 0rem;
@@ -106,7 +107,6 @@ hr
 
 }
 
-
 .navigation .link
  {
     color: white;
@@ -153,6 +153,7 @@ p
 
 }
 
+/*heading*/
 .hero .hero-heading
 {
     padding-top: 1rem;
@@ -165,7 +166,7 @@ p
 {
     color: var(--primary-color);
 }
-/**heading**/
+
 h1
 {
     text-align: center;
